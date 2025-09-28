@@ -19,4 +19,16 @@ Para praticar coleta e manipulação automatizada de dados de tabelas públicas,
 Sempre que se precisar de dados atualizados da Wikipédia de forma automática para relatórios, estudos ou visualizações.
 
 ## 6. How (Como funciona?)
-1. Clone o repositório:
+Clone o repositório para seu computador:
+git clone https://github.com/AurelioM20/Coletor-de-Dados.git
+
+Acesse a pasta do projeto:
+cd Coletor-de-Dados
+
+Instale as dependências necessárias:
+pip install -r requirements.txt
+
+Execute o script principal para coletar e salvar os dados:
+python main.py
+
+O arquivo filmes_maior_bilheteria.csv será criado no diretório atual, contendo os dados coletados.
