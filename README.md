@@ -8,7 +8,9 @@ Um projeto em Python que coleta automaticamente dados públicos da Wikipédia so
 Para praticar coleta e manipulação automatizada de dados de tabelas públicas, criando arquivos organizados para consultas, estudos e análises.
 
 ## 3. Who (Quem participa?)
-Aurelio Miguel Vieira Rijo Alves Pereira
+Desenvolvedores iniciantes e intermediários interessados em Python, web scraping e análise de dados.
+
+Usuários que desejam obter listas atualizadas de grandes bilheterias sem precisar coletar manualmente.
 
 ## 4. Where (Onde será usado?)
 - O script roda em Windows e Linux.
